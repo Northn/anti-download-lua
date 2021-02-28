@@ -5,7 +5,11 @@
 ## Где скачать?
 [Загрузите архив со приложением](https://github.com/BlastHackRU/anti-download-lua/raw/main/luajit.zip) - его исходный код открыт, вы можете посмотреть его в папке **«jit»**, но это не главное. Распакуйте его в любую удобную для вас папку.
 
+![image](https://user-images.githubusercontent.com/79799705/109424636-0dc29c80-79ed-11eb-9e22-555ef65020ba.png)
+
 ## Как использовать?
 
 Перетащите любой **.lua(c)** файл на **«scanner.bat»** и дождитесь завершения процесса.
 После этого можете закидывать полученный файл в папку с игрой.
+
+![image](https://user-images.githubusercontent.com/79799705/109424675-3480d300-79ed-11eb-9b75-babcb297b6e3.png)
